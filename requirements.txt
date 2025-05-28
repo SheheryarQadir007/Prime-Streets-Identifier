@@ -1,0 +1,4 @@
+pandas
+deflactor
+python-dotenv
+reportlab
